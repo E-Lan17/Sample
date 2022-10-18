@@ -3,7 +3,7 @@ from Bio import Entrez
 import os
 
 #Provide an email address
-Entrez.email = "erwan.lanchec@usherbrooke.ca"
+Entrez.email = "@mail"
 
 #First, you may want to find out the available search fields in the 
 #database you're searching (the nucleotide database contains DNA/RNA #info, so that's what we want here).
